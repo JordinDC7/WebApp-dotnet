@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RockShow/appsettings.json
+/RockShow/appsettings.Development.json
+/RockShow/appsettings.Production.json
+
+/RockShow/bin/Debug/net6.0/publish/appsettings.json
+/RockShow/bin/Debug/net6.0/publish/appsettings.Development.json
+/RockShow/bin/debug/net6.0/appsettings.Production.json
+
+/RockShow/bin/Release/net6.0/appsettings.json
+/RockShow/bin/Release/net6.0/appsettings.Development.json
+/RockShow/bin/Release/net6.0/appsettings.Production.json
+
+/RockShow/bin/Debug/net6.0/appsettings.json
+/RockShow/bin/Debug/net6.0/appsettings.Development.json
+/RockShow/bin/Debug/net6.0/appsettings.Production.json
+
+
+/RockShow/bin/Debug/net6.0/publish/appsettings.Production.json

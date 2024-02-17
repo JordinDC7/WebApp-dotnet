@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RockShow.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RockShow.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\EmailTemplates\\confirmation.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\confirmation.html"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\EmailTemplates\\enrollment.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\enrollment.html"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\EmailTemplates\\reset-password.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\reset-password.html"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\EmailTemplates\\thankYou.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\thankYou.html"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\NavBar-2UzS3E6-.js",
+      "PackagePath": "staticwebassets\\assets\\NavBar-2UzS3E6-.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\NavBar-8uXd1MzC.js",
+      "PackagePath": "staticwebassets\\assets\\NavBar-8uXd1MzC.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\NavBar-J4ktdNF2.js",
+      "PackagePath": "staticwebassets\\assets\\NavBar-J4ktdNF2.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\NavBar-XblaLoky.css",
+      "PackagePath": "staticwebassets\\assets\\NavBar-XblaLoky.css"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\RockShop-9gC-8PjG.js",
+      "PackagePath": "staticwebassets\\assets\\RockShop-9gC-8PjG.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\RockShop-Y_uzWSA4.js",
+      "PackagePath": "staticwebassets\\assets\\RockShop-Y_uzWSA4.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\RockShop-Z2ZZXViN.js",
+      "PackagePath": "staticwebassets\\assets\\RockShop-Z2ZZXViN.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\RockShop-kobjo-86.css",
+      "PackagePath": "staticwebassets\\assets\\RockShop-kobjo-86.css"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\RockShowHome-A_yRBf8C.css",
+      "PackagePath": "staticwebassets\\assets\\RockShowHome-A_yRBf8C.css"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\RockShowHome-TY9Ba0II.js",
+      "PackagePath": "staticwebassets\\assets\\RockShowHome-TY9Ba0II.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\RockShowHome-hjkxG_9C.js",
+      "PackagePath": "staticwebassets\\assets\\RockShowHome-hjkxG_9C.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\RockShowHome-oDAa2s_r.js",
+      "PackagePath": "staticwebassets\\assets\\RockShowHome-oDAa2s_r.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\bgimg-A_lvAW1p.png",
+      "PackagePath": "staticwebassets\\assets\\bgimg-A_lvAW1p.png"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\bgimg4-z6U7Loqm.png",
+      "PackagePath": "staticwebassets\\assets\\bgimg4-z6U7Loqm.png"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\index-9w6-8Xah.js",
+      "PackagePath": "staticwebassets\\assets\\index-9w6-8Xah.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\index-cw6F1sXW.css",
+      "PackagePath": "staticwebassets\\assets\\index-cw6F1sXW.css"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\index-h_YPr0qD.js",
+      "PackagePath": "staticwebassets\\assets\\index-h_YPr0qD.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\assets\\index-j1c-Fide.js",
+      "PackagePath": "staticwebassets\\assets\\index-j1c-Fide.js"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\WebApp-dotnet\\RockShow\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RockShow.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RockShow.props",
+      "PackagePath": "build\\RockShow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RockShow.props",
+      "PackagePath": "buildMultiTargeting\\RockShow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RockShow.props",
+      "PackagePath": "buildTransitive\\RockShow.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
