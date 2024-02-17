@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jordi\\OneDrive\\Desktop\\New folder\\RockShow\\RockShow.csproj": {}
+    "C:\\WebApp-dotnet\\RockShow\\RockShow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jordi\\OneDrive\\Desktop\\New folder\\RockShow\\RockShow.csproj": {
+    "C:\\WebApp-dotnet\\RockShow\\RockShow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jordi\\OneDrive\\Desktop\\New folder\\RockShow\\RockShow.csproj",
+        "projectUniqueName": "C:\\WebApp-dotnet\\RockShow\\RockShow.csproj",
         "projectName": "RockShow",
-        "projectPath": "C:\\Users\\jordi\\OneDrive\\Desktop\\New folder\\RockShow\\RockShow.csproj",
+        "projectPath": "C:\\WebApp-dotnet\\RockShow\\RockShow.csproj",
         "packagesPath": "C:\\Users\\jordi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jordi\\OneDrive\\Desktop\\New folder\\RockShow\\obj\\",
+        "outputPath": "C:\\WebApp-dotnet\\RockShow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

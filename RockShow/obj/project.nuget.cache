@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HrLAuy+GerJjM5OudHjIKDgmLLLGAaDrjNOUmDxOYWaq2AOe//avrnsBohzEaiW9/vYXz1GfeWHu0aNXKjbk6w==",
+  "dgSpecHash": "E/RJKhHaqkbRIgkK7nDoDjwIEXK2JCfgo+HY7nxX8a3wAL5X9fTvaAyZgSpVxfOtw7LWFcMsXCWnrrRHJUtrfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jordi\\OneDrive\\Desktop\\New folder\\RockShow\\RockShow.csproj",
+  "projectFilePath": "C:\\WebApp-dotnet\\RockShow\\RockShow.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jordi\\.nuget\\packages\\af.dataaccessor\\2.0.2\\af.dataaccessor.2.0.2.nupkg.sha512",
     "C:\\Users\\jordi\\.nuget\\packages\\bcrypt-core\\2.0.0\\bcrypt-core.2.0.0.nupkg.sha512",
